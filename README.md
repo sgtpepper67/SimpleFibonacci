@@ -1,2 +1,2 @@
 # SimpleFibonacci
-Displays fibonacci numbers
+Displays fibonacci numbers.
